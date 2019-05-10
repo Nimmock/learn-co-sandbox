@@ -1,3 +1,6 @@
-dishes = ["steak", "apple pie", "vegetable soup"]
+first_number = 7
+second_number = 14
  
-dishes.sort
+sum = first_number + second_number
+ 
+puts sum
